@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar{
+    background-color: #E83E8C;
+}
+
+.iconos{
+    background-color: #17A2B8;
+    color: white
+    }
+
+.foter{
+    text-align: center;
+    background-color: #E83E8C;
+    padding: 40px;
+}
